@@ -6,6 +6,8 @@ class Tag extends Model {}
 
 Tag.init(
   {
+    //id
+    //tag_name
     // define columns
   },
   {

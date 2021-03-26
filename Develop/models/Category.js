@@ -12,11 +12,7 @@ Category.init(
     primaryKey: true,
     autoIncrement: true,
     },
-    Shirts: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
-    Shorts: {
+    category_name: {
       type: DataTypes.STRING,
       allowNull: false,
     },
